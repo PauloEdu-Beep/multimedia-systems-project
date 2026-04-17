@@ -197,6 +197,24 @@ All submissions must be done via **Pull Request (PR)**.
 - File must be correctly named (delivery1.md, delivery2.md, etc.)
 - Content must be complete (no empty or placeholder text)
 
+All students must follow this workflow:
+
+1. Fork the repository
+2. Create a branch for each delivery
+3. Submit via Pull Request to the original repository
+
+### Branch naming:
+student-XX-deliveryX
+
+Example:
+student-03-delivery1
+
+### Rules:
+- Only edit your own folder
+- One delivery per PR
+- Do not modify other students' files
+- Follow naming conventions strictly
+
 ---
 
 ###  Invalid PRs (will be rejected)
